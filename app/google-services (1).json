@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168744596788",
+    "project_id": "login-reg-firebase-8b43a",
+    "storage_bucket": "login-reg-firebase-8b43a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168744596788:android:cd60539e0eacf05c7fe161",
+        "android_client_info": {
+          "package_name": "com.example.blooddonationapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPnIeVsqSFOouZ4isUkQjkm18jJhP6nyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194875177303",
+    "project_id": "login-register-firebase-510c2",
+    "storage_bucket": "login-register-firebase-510c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194875177303:android:7812ba7e7ea31dd2e22612",
+        "android_client_info": {
+          "package_name": "com.example.blooddonationapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZri58pks87GTyhC7m2rLhgMoEtk3cnIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
